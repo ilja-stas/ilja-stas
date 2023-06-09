@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Why did the software tester bring a ladder to work?
+
+Because they heard the code had a lot of high-level bugs!
 
 <!--
 **ilja-stas/ilja-stas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
